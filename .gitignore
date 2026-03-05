@@ -1,0 +1,42 @@
+# Visual Studio C++ wxWidgets Project
+
+# Ignore build outputs
+x64/
+Debug/
+Release/
+.vs/
+*.user
+*.suo
+*.VC.db
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.ipch
+*.opensdf
+*.sdf
+*.cache
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+*.iobj
+*.ipdb
+
+# Other common build artifacts
+*.o
+*.out
+*.app
+*.apk
+*~
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swm
+*.class
+*.jar
+*.pyc
+*.pyo
