@@ -4,7 +4,7 @@ A small assembler for the **Hack computer** from the *nand2tetris* course.
 
 It translates Hack assembly (`.asm`) into Hack machine code (`.hack`). The project also includes a simple **wxWidgets GUI** for loading/pasting code, assembling it, previewing the output, and saving the result.
 
-> **About this repo:** This started as a student project while learning nand2tetris. I’m keeping the code close to the original version for learning/reference purposes.
+> **About this repo:** This started as a student project while learning nand2tetris.
 
 ---
 
